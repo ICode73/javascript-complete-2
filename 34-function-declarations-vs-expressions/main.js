@@ -1,0 +1,9 @@
+"use strict";
+
+/*
+
+
+* FUNCTION DECLARATIONS VS. EXPRESSIONS
+
+
+*/
