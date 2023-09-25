@@ -5,3 +5,4 @@
 > - Functions Declarations vs. Expressions
 > - Arrow functions
 > - Functions Calling Other Functions
+> - Reviewing Functions
