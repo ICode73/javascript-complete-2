@@ -6,3 +6,4 @@
 > - Arrow functions
 > - Functions Calling Other Functions
 > - Reviewing Functions
+> - Introduction to Arrays
