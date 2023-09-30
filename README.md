@@ -7,3 +7,4 @@
 > - Functions Calling Other Functions
 > - Reviewing Functions
 > - Introduction to Arrays
+> - Array Operations(Methods)
