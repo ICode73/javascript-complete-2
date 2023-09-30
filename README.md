@@ -8,3 +8,5 @@
 > - Reviewing Functions
 > - Introduction to Arrays
 > - Array Operations(Methods)
+> - Introduction to Objects
+> - Dot vs. Bracket Notation
