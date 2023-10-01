@@ -10,3 +10,6 @@
 > - Array Operations(Methods)
 > - Introduction to Objects
 > - Dot vs. Bracket Notation
+> - Iteration: For Loop
+> - Looping Arrays, Breaking and Counting
+> - Looping Backwards and Loops in Loops
