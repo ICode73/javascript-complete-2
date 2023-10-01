@@ -13,3 +13,6 @@
 > - Iteration: For Loop
 > - Looping Arrays, Breaking and Counting
 > - Looping Backwards and Loops in Loops
+> - While Loop
+>
+> ### End of JavaScript Fundamentals
